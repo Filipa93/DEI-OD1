@@ -14,6 +14,9 @@ SET time_zone = "+00:00";
 -- 
 -- Table structure for `rooms`
 -- 
+
+LALALALAALALALA
+
 CREATE TABLE IF NOT EXISTS `rooms` (
 `id` int NOT NULL,
 `block` varchar(10) NOT NULL,
